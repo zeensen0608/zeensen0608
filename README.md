@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeensen0608
 - 👀 I’m interested in Web & UI
-- 🌱 I’m currently learning Fronted Coding
+- 🌱 I’m currently learning Frontend Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
